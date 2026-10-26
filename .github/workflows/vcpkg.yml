@@ -9,7 +9,7 @@ on:
         default: 'Manual dependency update'
 
 env:
-  VCPKG_COMMIT_ID: '120deac3062162151622ca4860575a33844ba10b'
+  VCPKG_COMMIT_ID: '3b59367d551e73738b5550a25595304b5003bf47'
 
 jobs:
   build-and-export:
